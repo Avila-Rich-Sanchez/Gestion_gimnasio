@@ -30,4 +30,4 @@ Este proyecto nació de la necesidad de digitalizar el control manual (cuadernos
 
 1. Clona este repositorio:
    ```bash
-   git clone [https://github.com/TU_USUARIO/nombre-de-tu-repo.git](https://github.com/TU_USUARIO/nombre-de-tu-repo.git)
+   git clone [https://github.com/Avila-Rich-Sanchez/Gestion_gimnasio.git](https://github.com/Avila-Rich-Sanchez/Gestion_gimnasio.git)
